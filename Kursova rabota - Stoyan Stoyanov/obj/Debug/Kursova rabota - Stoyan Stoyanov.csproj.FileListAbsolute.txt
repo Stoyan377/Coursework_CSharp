@@ -1,0 +1,16 @@
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\bin\Debug\Kursova rabota - Stoyan Stoyanov.exe.config
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\bin\Debug\Kursova rabota - Stoyan Stoyanov.exe
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\bin\Debug\Kursova rabota - Stoyan Stoyanov.pdb
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova rabota - Stoyan Stoyanov.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.Form1.resources
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.Properties.Resources.resources
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova rabota - Stoyan Stoyanov.csproj.GenerateResource.Cache
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova rabota - Stoyan Stoyanov.exe
+c:\users\stoyan\documents\visual studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova rabota - Stoyan Stoyanov.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.ShowAllData.resources
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.Data.resources
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.SpravkaSumi.resources
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.NumberOfClients.resources
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.MostMinutes.resources
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.MobileOperatorsRevenue.resources
+C:\Users\Stoyan\Documents\Visual Studio 2015\Projects\Kursova rabota - Stoyan Stoyanov\Kursova rabota - Stoyan Stoyanov\obj\Debug\Kursova_rabota___Stoyan_Stoyanov.MoreThanOneRecord.resources
